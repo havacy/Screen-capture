@@ -1,9 +1,6 @@
 import cv2
 import numpy as np
 import pyscreeze
-from pynput.mouse import Controller, Button
-import time
-import threading
 
 x1, y1 = 836, 444
 x2, y2 = 1050, 640
